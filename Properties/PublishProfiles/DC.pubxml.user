@@ -1,0 +1,354 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Release</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="assets/include/crime.xml">
+      <publishTime>09/29/2015 14:39:06</publishTime>
+    </File>
+    <File Include="assets/include/data.xml">
+      <publishTime>09/29/2015 14:27:14</publishTime>
+    </File>
+    <File Include="assets/include/vc.xml">
+      <publishTime>09/29/2015 14:39:42</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>06/18/2015 17:43:34</publishTime>
+    </File>
+    <File Include="bin/DC.dll">
+      <publishTime>10/05/2015 12:57:32</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.AspNet.dll">
+      <publishTime>06/18/2015 17:43:34</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.Core.dll">
+      <publishTime>06/18/2015 17:43:34</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OAuth.Consumer.dll">
+      <publishTime>06/18/2015 17:43:34</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OAuth.dll">
+      <publishTime>06/18/2015 17:43:34</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OpenId.dll">
+      <publishTime>06/18/2015 17:43:34</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OpenId.RelyingParty.dll">
+      <publishTime>06/18/2015 17:43:34</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>06/18/2015 17:43:20</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>06/18/2015 17:43:30</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.WebPages.OAuth.dll">
+      <publishTime>06/18/2015 17:43:34</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>06/18/2015 17:43:30</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.dll">
+      <publishTime>06/18/2015 17:43:32</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>06/18/2015 17:43:32</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.WebRequest.dll">
+      <publishTime>06/18/2015 17:43:32</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>06/18/2015 17:43:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>06/18/2015 17:43:32</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>06/18/2015 17:43:32</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>06/18/2015 17:43:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>06/18/2015 17:43:32</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>06/18/2015 17:43:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>06/18/2015 17:43:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>06/18/2015 17:43:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>06/18/2015 17:43:30</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>06/18/2015 17:43:34</publishTime>
+    </File>
+    <File Include="bin/WebMatrix.Data.dll">
+      <publishTime>06/18/2015 17:43:34</publishTime>
+    </File>
+    <File Include="bin/WebMatrix.WebData.dll">
+      <publishTime>06/18/2015 17:43:34</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>06/18/2015 17:43:10</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>06/18/2015 17:43:10</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>06/18/2015 17:43:36</publishTime>
+    </File>
+    <File Include="Views/Home/Index.cshtml">
+      <publishTime>06/18/2015 17:46:22</publishTime>
+    </File>
+    <File Include="Views/Shared/Error.cshtml">
+      <publishTime>06/18/2015 17:43:10</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.cshtml">
+      <publishTime>06/18/2015 17:46:18</publishTime>
+    </File>
+    <File Include="Views/Shared/_LoginPartial.cshtml">
+      <publishTime>06/18/2015 17:43:10</publishTime>
+    </File>
+    <File Include="Views/Web.config">
+      <publishTime>06/18/2015 17:43:10</publishTime>
+    </File>
+    <File Include="Views/_ViewStart.cshtml">
+      <publishTime>06/18/2015 17:43:10</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/05/2015 13:47:48</publishTime>
+    </File>
+    <File Include="web/crime/canada_map.svg">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/crime/crime.csv">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/crime/filter_stats.rb">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/crime/index.html">
+      <publishTime>08/30/2015 17:00:06</publishTime>
+    </File>
+    <File Include="web/css/bootstrap.css">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/css/bootstrap.min.css">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/css/colorbrewer.css">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/css/dc.css">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/dc.logo.png">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/docs/api-1.5.0.md">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/docs/api-1.6.0.md">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/docs/api-1.7.0.md">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/docs/api-2.0.0.md">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/docs/api-latest.md">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/docs/docco.css">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/docs/index.html">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/docs/stock.html">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/ep/blank.gif">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/ep/index.html">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/ep/list.js">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/ep/mep.csv">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/examples/bar-extra-line.html">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/examples/bar.html">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/examples/box-plot-time.html">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/examples/box-plot.html">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/examples/composite.html">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/examples/cust.html">
+      <publishTime>04/28/2015 12:24:34</publishTime>
+    </File>
+    <File Include="web/examples/heat.html">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/examples/heatmap-filtering.html">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/examples/index.html">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/examples/line.html">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/examples/monthly-move.csv">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/examples/morley.csv">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/examples/morley2.csv">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/examples/morley3.csv">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/examples/multi-focus.html">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/examples/multi-scatter.html">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/examples/number.html">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/examples/ord.html">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/examples/pie.html">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/examples/right-axis.html">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/examples/scatter-brushing.html">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/examples/scatter-series.html">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/examples/scatter.html">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/examples/series.html">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/geo/us-counties.json">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/geo/us-states.json">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/highlighter/shAutoloader.js">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/highlighter/shBrushJScript.js">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/highlighter/shBrushXml.js">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/highlighter/shCore.css">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/highlighter/shCore.js">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/highlighter/shThemeDefault.css">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/img/glyphicons-halflings-white.png">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/img/glyphicons-halflings.png">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/index.html">
+      <publishTime>08/30/2015 15:52:18</publishTime>
+    </File>
+    <File Include="web/js/colorbrewer.js">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/js/crossfilter.js">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/js/d3.js">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/js/dc.js">
+      <publishTime>07/19/2015 18:28:38</publishTime>
+    </File>
+    <File Include="web/js/dc.js.map">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/js/dc.min.js">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/js/dc.min.js.map">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/js/env-data.js">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/js/jquery-2.1.4.min.js">
+      <publishTime>06/17/2015 16:09:18</publishTime>
+    </File>
+    <File Include="web/js/knockout-2.3.0.js">
+      <publishTime>05/09/2015 10:48:32</publishTime>
+    </File>
+    <File Include="web/js/knockout.mapping.js">
+      <publishTime>05/09/2015 10:48:32</publishTime>
+    </File>
+    <File Include="web/ndx.csv">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/play-ground.html">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/stock.js">
+      <publishTime>09/29/2015 14:26:05</publishTime>
+    </File>
+    <File Include="web/vc/index.html">
+      <publishTime>08/30/2015 15:52:18</publishTime>
+    </File>
+    <File Include="web/vc/state2code.rb">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+    <File Include="web/vc/vc.csv">
+      <publishTime>04/03/2015 16:09:44</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
